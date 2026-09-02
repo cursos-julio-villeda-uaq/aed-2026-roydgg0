@@ -15,6 +15,10 @@ double calcularPromedio(const std::vector<double>& calificaciones) {
     }
 
     // TODO: usa calcularSuma y devuelve el promedio.
+    for(int i = 0; i < 10; i++){
+
+    }
+    
     return 0.0;
 }
 
