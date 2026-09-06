@@ -5,8 +5,13 @@
 namespace aed {
 
 double calcularSuma(const std::vector<double>& calificaciones) {
+    double total = 0.0;
     // TODO: recorre el vector con un for basado en rango y devuelve la suma.
-    return 0.0;
+    for (double calif : calificaciones) {
+        total = total + calif;
+    }
+    
+    return total;
 }
 
 double calcularPromedio(const std::vector<double>& calificaciones) {
@@ -15,11 +20,8 @@ double calcularPromedio(const std::vector<double>& calificaciones) {
     }
 
     // TODO: usa calcularSuma y devuelve el promedio.
-    for(int i = 0; i < 10; i++){
-
-    }
-    
-    return 0.0;
+    double suma = calcularSuma(calificaciones);
+    return suma / calificaciones.size();
 }
 
 }  // namespace aed
