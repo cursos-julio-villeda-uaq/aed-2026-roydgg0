@@ -6,7 +6,7 @@ long long sumaIterativa(unsigned int n) {
     // for, while, do while
 
     long long suma = 0;
-    for(short int contador = n; n >= 1; n--){
+    for(long long contador = n; n >= 1; n--){
         suma = suma + contador;
     }
 
