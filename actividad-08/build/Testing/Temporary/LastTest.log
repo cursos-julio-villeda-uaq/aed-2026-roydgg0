@@ -1,0 +1,19 @@
+Start testing: Sep 22 23:11 CST
+----------------------------------------------------------
+1/1 Testing: promedio_tests
+1/1 Test: promedio_tests
+Command: "/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/promedio_tests"
+Directory: /Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build
+"promedio_tests" start time: Sep 22 23:11 CST
+Output:
+----------------------------------------------------------
+Todas las pruebas visibles pasaron.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"promedio_tests" end time: Sep 22 23:11 CST
+"promedio_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 22 23:11 CST

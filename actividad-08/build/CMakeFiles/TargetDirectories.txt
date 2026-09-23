@@ -1,0 +1,6 @@
+/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/CMakeFiles/promedio.dir
+/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/CMakeFiles/actividad_08.dir
+/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/CMakeFiles/promedio_tests.dir
+/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/CMakeFiles/test.dir
+/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/CMakeFiles/edit_cache.dir
+/Users/rogeio/Documents/GitHub/aed-2026-roydgg0/actividad-08/build/CMakeFiles/rebuild_cache.dir
